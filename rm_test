@@ -1,0 +1,7 @@
+total 16
+drwxrwxr-x  3 king king 4096  7月 29 16:04 ./
+drwxr-xr-x 24 king king 4096  7月 29 15:55 ../
+drwxrwxr-x  8 king king 4096  7月 29 15:59 .git/
+-rw-rw-r--  1 king king    0  7月 29 15:41 LICENSE
+-rw-rw-r--  1 king king  145  7月 29 15:59 readme.txt
+-rw-rw-r--  1 king king    0  7月 29 16:05 rm_test
